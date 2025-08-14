@@ -1,0 +1,4 @@
+simple-cloudfront-invalidator:
+  Repository: https://github.com/qelphybox/simple-cloudfront-invalidator
+  Ruby Gem: https://rubygems.org
+  Travis CI: https://travis-ci.com
